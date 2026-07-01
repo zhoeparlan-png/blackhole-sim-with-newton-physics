@@ -27,7 +27,7 @@ untuk linux:
   cara menjalankan untuk linux:
     `python3 blackhole_2D_v2.py`
 
-# arabic language:
+# Arabic language:
 
 محاكاة فيزيائية لثقب أسود (ثنائية الأبعاد)
 
@@ -55,7 +55,7 @@ untuk linux:
   طريقة التشغيل على Linux:
     python3 blackhole_2D_v2.py
 
-# japanese language:
+# Japanese language:
 
 ブラックホール2D物理シミュレーション
 
@@ -83,7 +83,7 @@ Linuxの場合:
   Linuxでの実行方法:
     `python3 blackhole_2D_v2.py`
 
-# malaysia language:
+# Malaysia language:
 
 Simulasi Fizik 2D Lubang Hitam
 
@@ -110,3 +110,31 @@ Untuk Linux:
     
   Cara berjalan di Linux:
     python3 blackhole_2D_v2.py
+# English language:
+
+Black Hole 2D Physics Simulation
+
+An interactive black hole simulation using Python and Pygame.
+Features:
+
+  Physics engine based on Newtonian gravity.
+  Visual effects for orbital mechanics (photon sphere phenomenon).
+
+How to Run:
+
+  Install pygame: `pip install pygame`
+  Run: `py -3.xx blackhole2D_v2.py`
+  
+For Linux:
+
+  Create a venv:
+    `python3 -m venv venv`
+    
+  Activate the venv:
+    `source /path/to/your/folder/.venv/bin/activate`
+    
+  Install pygame:
+    `pip install pygame`
+    
+  How to run on Linux:
+    `python3 blackhole_2D_v2.py`
