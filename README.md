@@ -16,15 +16,16 @@ Cara Menjalankan:
 untuk linux:
 
   buat venv
-    python3 -m venv venv
+    `python3 -m venv venv`
     
   aktifkan venv
-    source home/user/ur folder/ .venv/bin/activate
+    `source home/user/ur folder/ .venv/bin/activate`
+    
   install pygame
-    pip install pygame
+    `pip install pygame`
     
   cara menjalankan untuk linux:
-    python3 blackhole_2D_v2.py
+    `python3 blackhole_2D_v2.py`
 
 # arabic language:
 
