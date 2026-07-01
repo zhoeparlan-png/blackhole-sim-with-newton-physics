@@ -95,7 +95,8 @@ ciri-ciri:
 
 Cara Berlari:
 
-  Pasang pygame: pip install pygame
+  Pasang pygame: 
+  `pip install pygame`
   Jalankan: `py -3.xx blackhole2D_v2.py`
   
 Untuk Linux:
