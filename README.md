@@ -19,7 +19,7 @@ untuk linux:
     `python3 -m venv venv`
     
   aktifkan venv
-    `source home/user/ur folder/ .venv/bin/activate`
+    `source .venv/bin/activate`
     
   install pygame
     `pip install pygame`
@@ -45,15 +45,15 @@ untuk linux:
 لنظام Linux:
 
   إنشاء بيئة افتراضية (venv):
-    python3 -m venv venv
+    `python3 -m venv venv`
 
   تفعيل البيئة الافتراضية:
-    source home/user/your_folder/.venv/bin/activate
+    `source .venv/bin/activate`
   تثبيت مكتبة pygame:
-    pip install pygame
+    `pip install pygame`
 
   طريقة التشغيل على Linux:
-    python3 blackhole_2D_v2.py
+    `python3 blackhole_2D_v2.py`
 
 # Japanese language:
 
@@ -76,7 +76,7 @@ Linuxの場合:
     `python3 -m venv venv`
 
   仮想環境の有効化
-    `source home/user/your_folder/.venv/bin/activate`
+    `source .venv/bin/activate`
   pygameのインストール
     `pip install pygame`
 
@@ -96,20 +96,20 @@ ciri-ciri:
 Cara Berlari:
 
   Pasang pygame: pip install pygame
-  Jalankan: py -3.xx blackhole2D_v2.py
+  Jalankan: `py -3.xx blackhole2D_v2.py`
   
 Untuk Linux:
 
   Buat venv
-    python3 -m venv venv
+    `python3 -m venv venv`
     
   Aktifkan venv
-    sumber home/user/your_folder/.venv/bin/activate
+    `source .venv/bin/activate`
   Pasang pygame
-    pip pasang pygame
+    `pip install pygame`
     
   Cara berjalan di Linux:
-    python3 blackhole_2D_v2.py
+    `python3 blackhole_2D_v2.py`
 # English language:
 
 Black Hole 2D Physics Simulation
